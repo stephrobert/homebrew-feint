@@ -12,25 +12,25 @@ class Feint < Formula
 
   on_macos do
     on_intel do
-      url "https://github.com/stephrobert/feint/releases/download/v0.9.0/feint-darwin-amd64"
-      sha256 "c1ac05141df079d142a43b9f8d212a84e9c52661af98cb92753860c05aeaace8"
+      url "https://github.com/stephrobert/feint/releases/download/v0.10.0/feint-darwin-amd64"
+      sha256 "1ff83266163a04ac54cd0304e8f932aecbb052050ba544c176d3c29b5f7de597"
     end
 
     on_arm do
-      url "https://github.com/stephrobert/feint/releases/download/v0.9.0/feint-darwin-arm64"
-      sha256 "af8446dfaff8b657637bfbf295fe8ea58bcecb7fe3ab4fea33fa2d3790ed053b"
+      url "https://github.com/stephrobert/feint/releases/download/v0.10.0/feint-darwin-arm64"
+      sha256 "094728ab95e8123919ef9cf500246e2cdf2ffa0528930596e932a5321a998397"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/stephrobert/feint/releases/download/v0.9.0/feint-linux-amd64"
-      sha256 "fa7b9c099239a5e66fadba7312722f84e5ba34ff606540101516a7170965e28a"
+      url "https://github.com/stephrobert/feint/releases/download/v0.10.0/feint-linux-amd64"
+      sha256 "c9f17966451c68de4110a4d09b4b3d1f14f34f305b094984f6d5be4ec60002a7"
     end
 
     on_arm do
-      url "https://github.com/stephrobert/feint/releases/download/v0.9.0/feint-linux-arm64"
-      sha256 "de1d7c093b7755afbfbf053cb5dadf832f3b713d67c00316c39d2023732c34cd"
+      url "https://github.com/stephrobert/feint/releases/download/v0.10.0/feint-linux-arm64"
+      sha256 "c54ba8e4700c330b7e4fd1c0ca000d0acd85f0c925cb43456a4da61a3fdcec13"
     end
   end
 
