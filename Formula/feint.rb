@@ -8,7 +8,6 @@
 class Feint < Formula
   desc "Local emulator of the Scaleway, Outscale and Exoscale clouds"
   homepage "https://github.com/stephrobert/feint"
-  version "0.9.0"
   license "Apache-2.0"
 
   on_macos do
